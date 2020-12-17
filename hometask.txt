@@ -1,0 +1,10 @@
+Различия:
+Ветки boots, buttons мержатся последовательно к demo,
+а к master ветки boots и buttons мержатся одной веткой - boots_buttons.
+В удаленном репозитории 6 коммитов:
+init
+heat added
+boots
+README added
+dots
+fix readme
